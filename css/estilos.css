@@ -1,7 +1,7 @@
 body{
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
-    color: rgb(17, 14, 14);
+    color: rgb(6, 65, 192);
 }
 
 .container{
@@ -20,4 +20,5 @@ body{
     background-color: cornflowerblue;
     height: 5rem;
     font-size: x-large;
+    color: white;
 }
